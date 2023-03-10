@@ -13,10 +13,19 @@ Zendesk-Webwidget for Angular 1.x see [here](https://github.com/CrossLead/angula
 Via [npm](https://www.npmjs.com/package/ngx-zendesk-webwidget):
 
 ```bash
-npm install ngx-zendesk-webwidget --save
+npm install @nitsanzo/ngx-zendesk-webwidget
 ```
 
 ## Usage
+
+Add to your `tsconfig.json` file, to `paths` `ngx-zendesk-webwidget`:
+```json
+"compilerOptions": {
+    "paths": {
+      "ngx-zendesk-webwidget": ["node_modules/@nitsanzo/ngx-zendesk-webwidget"]
+    }
+```
+
 
 The examples were made using the classic web widget
 
