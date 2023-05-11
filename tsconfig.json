@@ -3,7 +3,7 @@
   "compilerOptions": {
     "declaration": true,
     "module": "es2015",
-    "target": "es5",
+    "target": "es2022",
     "baseUrl": "./src",
     "stripInternal": true,
     "experimentalDecorators": true,
