@@ -21,5 +21,19 @@
   },
   "dependencies": {
     "tslib": "^2.3.0"
-  }
+  },
+  "module": "fesm2022/yayudev-ngx-zendesk-webwidget.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2022": "./esm2022/yayudev-ngx-zendesk-webwidget.mjs",
+      "esm": "./esm2022/yayudev-ngx-zendesk-webwidget.mjs",
+      "default": "./fesm2022/yayudev-ngx-zendesk-webwidget.mjs"
+    }
+  },
+  "sideEffects": false
 }
