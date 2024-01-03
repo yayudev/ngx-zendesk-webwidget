@@ -123,4 +123,4 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "17.0.8", ngImpor
  */
 
 export { NgxZendeskWebwidgetConfig, NgxZendeskWebwidgetModule, NgxZendeskWebwidgetService };
-//# sourceMappingURL=ngx-zendesk-webwidget.mjs.map
+//# sourceMappingURL=yayudev-ngx-zendesk-webwidget.mjs.map
