@@ -1,10 +1,10 @@
 {
-  "name": "@yayudev/ngx-zendesk-webwidget",
-  "version": "5.0.0",
+  "name": "ngx-zendesk-webwidget-updated",
+  "version": "6.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build && cp ./README.md ./dist/ngx-zendesk-webwidget",
+    "build": "ng build && cp ./README.md ./dist/ngx-zendesk-webwidget-updated",
     "watch": "ng build --watch --configuration development"
   },
   "repository": {

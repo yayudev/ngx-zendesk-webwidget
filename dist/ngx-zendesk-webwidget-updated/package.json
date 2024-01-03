@@ -1,20 +1,20 @@
 {
-  "name": "@yayudev/ngx-zendesk-webwidget",
-  "version": "4.0.0",
+  "name": "ngx-zendesk-webwidget-updated",
+  "version": "6.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/yayudev/ngx-zendesk-webwidget.git"
   },
   "author": {
-    "name": "Alison Vilela",
-    "email": "alison.vilela@live.nl"
+    "name": "Arturo Coronel",
+    "email": "arturo.coronel@sonatafy.com"
   },
   "keywords": [
     "angular"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlisonVilela/ngx-zendesk-webwidget/issues"
+    "url": "https://github.com/yaudev/ngx-zendesk-webwidget/issues"
   },
   "peerDependencies": {
     "@angular/core": "^14.0.0"
@@ -22,7 +22,7 @@
   "dependencies": {
     "tslib": "^2.3.0"
   },
-  "module": "fesm2022/yayudev-ngx-zendesk-webwidget.mjs",
+  "module": "fesm2022/ngx-zendesk-webwidget-updated.mjs",
   "typings": "index.d.ts",
   "exports": {
     "./package.json": {
@@ -30,9 +30,9 @@
     },
     ".": {
       "types": "./index.d.ts",
-      "esm2022": "./esm2022/yayudev-ngx-zendesk-webwidget.mjs",
-      "esm": "./esm2022/yayudev-ngx-zendesk-webwidget.mjs",
-      "default": "./fesm2022/yayudev-ngx-zendesk-webwidget.mjs"
+      "esm2022": "./esm2022/ngx-zendesk-webwidget-updated.mjs",
+      "esm": "./esm2022/ngx-zendesk-webwidget-updated.mjs",
+      "default": "./fesm2022/ngx-zendesk-webwidget-updated.mjs"
     }
   },
   "sideEffects": false

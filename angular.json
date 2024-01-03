@@ -5,7 +5,7 @@
   "projects": {
     "ngx-zendesk-webwidget": {
       "projectType": "library",
-      "root": "@yayudev/ngx-zendesk-webwidget",
+      "root": "ngx-zendesk-webwidget-updated",
       "sourceRoot": "src",
       "prefix": "lib",
       "architect": {
