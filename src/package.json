@@ -1,20 +1,20 @@
 {
-  "name": "@yayudev/ngx-zendesk-webwidget",
-  "version": "4.0.0",
+  "name": "ngx-zendesk-webwidget-updated",
+  "version": "6.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/yayudev/ngx-zendesk-webwidget.git"
   },
   "author": {
-    "name": "Alison Vilela",
-    "email": "alison.vilela@live.nl"
+    "name": "Arturo Coronel",
+    "email": "arturo.coronel@sonatafy.com"
   },
   "keywords": [
     "angular"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlisonVilela/ngx-zendesk-webwidget/issues"
+    "url": "https://github.com/yaudev/ngx-zendesk-webwidget/issues"
   },
   "peerDependencies": {
     "@angular/core": "^14.0.0"
